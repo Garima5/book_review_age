@@ -1,3 +1,8 @@
 # book_review_age
-The app gives list of books suitable for a particular age group.It uses New York Times api
-Also you can enter a street and city to add anice background image .(Done using Google Street View Api)
+##How to Use the app
+1) Download the project
+2)Launch index.html in chrome
+3)Enter the name of street and city which you want to see as background
+4)Next enter the age to get recommended books for that age group
+
+###The project uses google street view imagery and newYork times api
